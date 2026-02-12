@@ -31,9 +31,9 @@ streamlit run app.py
 
 -Powered by Gemini LLM
 
-E-asy deployment
+-Easy deployment
 
-#Author
+# Author
 
 Arul Kumaran
 Computer Science Engineering
